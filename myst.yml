@@ -25,7 +25,7 @@ project:
     - title: Notebook Files
       children:
         - file: notebook_files/catalog_tutorial.ipynb
-  banner: ./atmospheric_banner.png
+  banner: ./atmospheric_banner.jpg
     
 site:
   template: book-theme
