@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 24e41cf2-9a09-49b3-b342-9922415a5a36
-  title: Butler (2025?) AR Catalog
+  title: MyST/GitHub Workflow Test (on CryoCloud)
   description: Documentation for the AR Catalog currently in development by Butler et al,
   authors:
     - name: James Butler
